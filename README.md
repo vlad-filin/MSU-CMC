@@ -5,3 +5,4 @@ This repo consists of my labs:
 * task2 - Logistic regression + 20newsgroups 
 * task3 - SVM(cvxopt+subgrad) + model data 
 * task4 - CNN(pytorch) + stl10 
+* task5 - EM for separation of Gaussian mixtures.
