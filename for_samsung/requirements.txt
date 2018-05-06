@@ -1,0 +1,10 @@
+Все версии - последние
+matplotlib
+scipy
+math
+time
+glob
+skimage
+importlib
+numpy 1.14.0
+pytorch 0.4.0 
